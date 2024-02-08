@@ -16,6 +16,6 @@ oldbalanceDest: initial balance of recipient before the transaction
 newbalanceDest: the new balance of recipient after the transaction
 isFraud: fraud transaction
 Python Libraries
-pandas, numpy, seaborn, matplotlib, tabulate, sklearn
+pandas, numpy, seaborn, matplotlib, sklearn
 
-Random Forest and Naive Bayes were used to identify online payment fraud due to the large dataset.
+Using logistic regresion and descision tree, we can figure out weather the transaction is fraudulent or not.
